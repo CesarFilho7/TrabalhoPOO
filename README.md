@@ -1,1 +1,4 @@
 # TrabalhoPOO
+
+![diagrama](Diagrama.png)
+ 

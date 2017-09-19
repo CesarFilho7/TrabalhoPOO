@@ -1,0 +1,7 @@
+package trabalho;
+
+public class Partida {
+	public String nome;
+	public String estadio;
+	public int forca;
+}

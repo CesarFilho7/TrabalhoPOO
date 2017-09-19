@@ -1,0 +1,21 @@
+package trabalho;
+
+public class Partida {
+	public String data;
+	public String hora;
+	public String competicao;
+	Time time1;
+	Time time2;
+	
+	public String Jogar() {
+		int total = time1.forca + time2.forca;
+		int probabilidadeTime1 = (100*time1.forca)/total;
+		int randomInt = (int)Math.random() + 1;
+		
+		if(randomInt < probabilidadeTime1) {
+			return "Time 1 Venceu!";
+		}Else if{
+			
+		}
+	}
+}

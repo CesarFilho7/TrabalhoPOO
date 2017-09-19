@@ -1,0 +1,12 @@
+package trabalho;
+
+public class TesteJogo {
+	public static void main(String[] Args) {
+		Time time1 = new Time();
+		time1.forca = 80;
+		
+		Time time2 = new Time();
+		time2.forca = 10;
+		
+	}
+}
